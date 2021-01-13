@@ -1,0 +1,1 @@
+const doubleChar = str => str.split("").map(i => i+i).join("");

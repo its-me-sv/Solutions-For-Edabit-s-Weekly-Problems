@@ -1,0 +1,1 @@
+const largestNumbers = (n, arr) => n == 0 ? [] : arr.sort((a,b) => a - b).slice(-n);

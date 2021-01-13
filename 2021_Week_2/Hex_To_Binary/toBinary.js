@@ -1,0 +1,1 @@
+const toBinary = num => num.toString(2);

@@ -1,0 +1,1 @@
+const checkTitle = title => title.split(" ").every(word => word[0] == word[0].toUpperCase());
