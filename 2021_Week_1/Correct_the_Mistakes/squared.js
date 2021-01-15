@@ -1,0 +1,1 @@
+const squared = b => b * b;
