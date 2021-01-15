@@ -1,0 +1,1 @@
+const yeah_nope = bool => bool == true ? "yeah" : "nope";
