@@ -1,0 +1,1 @@
+reverse_odd = lambda x : " ".join(map(lambda w : w[::-1] if len(w) % 2 else w,x.split(" ")))
