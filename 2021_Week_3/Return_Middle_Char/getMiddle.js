@@ -1,0 +1,1 @@
+const getMiddle = x => x.length % 2 != 0 ? x.substr(x.length/2,1) : x.substr((x.length/2)-1,2);
