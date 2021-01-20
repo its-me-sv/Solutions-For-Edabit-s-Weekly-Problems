@@ -1,0 +1,1 @@
+const reverseCase = s => [...s].map(i => i == i.toUpperCase() ? i.toLowerCase() : i.toUpperCase()).join("");
