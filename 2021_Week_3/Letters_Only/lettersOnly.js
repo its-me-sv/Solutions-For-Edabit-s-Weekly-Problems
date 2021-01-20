@@ -1,0 +1,1 @@
+const lettersOnly = s => s.match(/[A-Z]/gi).join("");
