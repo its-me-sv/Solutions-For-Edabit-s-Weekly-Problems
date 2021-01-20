@@ -1,0 +1,1 @@
+new_word = lambda x:x[1:]

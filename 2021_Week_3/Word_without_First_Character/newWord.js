@@ -1,0 +1,1 @@
+const newWord = x => x.slice(1);
