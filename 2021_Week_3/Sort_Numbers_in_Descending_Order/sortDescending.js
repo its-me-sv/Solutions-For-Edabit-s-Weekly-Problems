@@ -1,0 +1,1 @@
+const sortDescending = n => parseInt([...n.toString()].sort().reverse().join(""))
